@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Itamar Dalal
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning a lot of things
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning for fun
 - 📫 How to reach me: dalalitamar@gmail.com
 <br/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/ItamarDalal.png" alt="TryHackMe">
