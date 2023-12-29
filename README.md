@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Itamar Dalal
-- 🌱 I’m currently learning for fun
 - 📫 How to reach me: dalalitamar@gmail.com
 <br/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/ItamarDalal.png" alt="TryHackMe">
