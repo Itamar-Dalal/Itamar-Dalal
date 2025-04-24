@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Itamar Dalal
 - 📫 How to reach me: dalalitamar@gmail.com
 <br/>
- [[params.social]]
+[[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/itamar-dalal-724497362"
